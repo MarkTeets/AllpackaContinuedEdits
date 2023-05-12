@@ -1,7 +1,9 @@
 # Allpacka
 
+# Fork Notes
 This fork was created to secure my status as a contributor in https://github.com/AllpackaLabs/allpacka, as much of my code is used there. It was copy-pasted and my commit history isn't present. Please see https://github.com/MarkTeets/AllPacka/tree/marks-dev for my pre-AllpackaLabs-transition code contributions.
 
+# ReadMe
 A planning app for any and every event!
 
 Note the server and client have their own package.json
